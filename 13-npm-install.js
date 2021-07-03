@@ -26,14 +26,13 @@
 // dev dependencies -> npm i install nodemon -D
 
 /*
-git remote add origin git@github.com:alexbajan/temp.git
+git remote add origin REPOSITORY URL
 git branch -M main
 git push -u origin main
 
 git add .
 git commit -m "second commit"
 */
-
 
 const _ = require('lodash');
 const items = [1, [2, [3, [4]]]];
