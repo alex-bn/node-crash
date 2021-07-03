@@ -26,7 +26,7 @@
 // dev dependencies -> npm i install nodemon -D
 
 /*
-git remote add origin REMOTE URL
+git remote add origin REPOSITORY URL
 git branch -M main
 git push -u origin main
 
